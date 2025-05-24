@@ -70,6 +70,12 @@ You’ll work with **MySQL Workbench 8.0** and a dataset containing:
 
 ---
 
+## Project Files
+- `db_course_conversions.sql`: SQL dump file with student, engagement, and purchase tables.
+- `conversion_analysis.sql`: SQL script to calculate free-to-paid conversion and metrics.
+
+---
+
 ## 🔗 About
 
 This project was part of a hands-on SQL practice on **data analysis and conversion rate modeling**. The goal was to estimate user behavior flow and performance insights for a digital learning platform.
